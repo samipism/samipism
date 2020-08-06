@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-{
-    var computerEngineer;         //locally defined
-}
+{<br />
+    var computerEngineer;         //locally defined <br />
+}<br />
 //globally recognised!!
