@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```js
-{<br />
-    var computerEngineer;         //locally defined <br />
-}<br />
+{
+    var computerEngineer;         //locally defined 
+}
 //globally recognised!!
 ```
 <!-- [![Samip's GitHub stats](https://github-readme-stats.vercel.app/api?username=samipism&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
