@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 }<br />
 //globally recognised!!
 
-[![Samip's GitHub stats](https://github-readme-stats.vercel.app/api?username=samipism)](https://github.com/anuraghazra/github-readme-stats)
+[![Samip's GitHub stats](https://github-readme-stats.vercel.app/api?username=samipism&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
