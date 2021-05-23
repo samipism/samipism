@@ -18,3 +18,5 @@ Here are some ideas to get you started:
     var computerEngineer;         //locally defined <br />
 }<br />
 //globally recognised!!
+
+[![Samip's GitHub stats](https://github-readme-stats.vercel.app/api?username=samipism)](https://github.com/anuraghazra/github-readme-stats)
